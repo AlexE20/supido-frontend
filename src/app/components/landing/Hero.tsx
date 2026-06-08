@@ -85,7 +85,7 @@ const Hero = () => (
           <div className="absolute inset-0 bg-gradient-to-br from-[var(--color-suido-cat)]/8
                           to-transparent rounded-3xl" />
           <Image
-            src="/supido.jpeg"
+            src="/supido.png"
             alt="Supido Delivery"
             width={200}
             height={200}
